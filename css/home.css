@@ -1,0 +1,5 @@
+body {
+  background: url("../images/dine.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
