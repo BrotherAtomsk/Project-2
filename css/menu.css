@@ -1,0 +1,8 @@
+body {
+  background-image: url("../images/cafe.jpeg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.background-black {
+  background-color: #000;
+}
